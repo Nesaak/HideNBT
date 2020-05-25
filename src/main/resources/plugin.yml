@@ -1,0 +1,7 @@
+name: HideNBT
+version: 1.0
+main: com.nesaak.hidenbt.HideNBTPlugin
+api-version: 1.13
+depend: [ProtocolLib]
+authors: [Nesaak]
+description: Hides Item NBT from Client
